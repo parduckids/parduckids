@@ -19,8 +19,8 @@ I am a Full Stack Developer from Hungary living in the UK.
 
 
 
-<hr>
-### :hammer_and_wrench: Languages and Tools :
+<hr><br><br>
+:hammer_and_wrench: Languages and Tools :
 
 
 <div>
@@ -41,8 +41,8 @@ I am a Full Stack Developer from Hungary living in the UK.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
-<hr>
-### :fire: My Stats :
+<hr><br><br>
+:fire: My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parduckids&theme=dark&background=000000)](https://git.io/streak-stats)
