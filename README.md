@@ -18,6 +18,7 @@ I am a Full Stack Developer from Hungary living in the UK.
 - :envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adam-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/adam-voros-133757223/")
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
