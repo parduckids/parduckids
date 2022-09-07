@@ -40,6 +40,8 @@ I am a Full Stack Developer from Hungary living and working in the UK.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
+
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]("https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse?si=cde674eb2f524f9c")
 
 <br>
