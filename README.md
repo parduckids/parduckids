@@ -43,7 +43,7 @@ I am a Full Stack Developer from Hungary living and working in the UK.
 
 
 <br>
-📈 Some Numbers
+📈 Interesting Numbers:
 <br><br>
 
 
