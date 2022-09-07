@@ -21,7 +21,7 @@ I am a Full Stack Developer from Hungary living in the UK.
 
 <br>
 :hammer_and_wrench: Languages and Tools :
-<br>
+<br><br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ I am a Full Stack Developer from Hungary living in the UK.
 
 <br>
 :fire: My Stats :
-<br>
+<br><br>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parduckids&theme=dark&background=000000)](https://git.io/streak-stats)
