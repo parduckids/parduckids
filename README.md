@@ -7,12 +7,11 @@
 </div>
 
 
-- :computer: I'm a Student and Developer who loves computer science. Currently working as a Junior Web Developer and making projects learning new technologies in my free time. 
+- :computer: I'm a Student and Developer who loves computer science. Currently working as a Junior Web Developer.
 
 - :bulb: Exploring 3D Graphics Programming.
 
 - :books: In my free time, I learn about new technologies, 3D,  App and Web Game development.
-
 
 - :envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adam-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/adam-voros-133757223/")
 
