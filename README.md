@@ -42,11 +42,8 @@ I am a Full Stack Developer from Hungary living and working in the UK.
 </div>
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse?si=f89484c746104aad)
-
-
 <br>
-:fire: My Stats :
+📈 Some Numbers
 <br><br>
 
 
