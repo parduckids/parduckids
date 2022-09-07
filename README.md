@@ -3,7 +3,7 @@
       <img src="https://komarev.com/ghpvc/?username=parduckids&style=flat-square&color=red" alt=""/>
     </div>
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300">
-    <h1>Heeeeey :upside_down_face:</h1>
+    <h1>Hi Stranger! <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="30"></h1>
 </div>
 I am a Full Stack Developer from Hungary living in the UK.
 
