@@ -19,7 +19,7 @@ I am a Full Stack Developer from Hungary living in the UK.
 
 
 
-<hr><br><br>
+<div>
 :hammer_and_wrench: Languages and Tools :
 
 
@@ -40,8 +40,8 @@ I am a Full Stack Developer from Hungary living in the UK.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
-
-<hr><br><br>
+</div>
+ <div>
 :fire: My Stats :
 
 
@@ -49,6 +49,7 @@ I am a Full Stack Developer from Hungary living in the UK.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parduckids&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 
 
