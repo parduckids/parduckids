@@ -5,8 +5,7 @@
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300">
     <h1>Hi Stranger! <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="30"></h1>
 </div>
-I am a Full Stack Developer from Hungary living and working in the UK.
-
+I'm a Student and Developer who loves computer science. Currently working as a Junior Web Developer at the moment, making personal projects or learning something just about every day. Check out my projects
 
 - :computer: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
