@@ -13,7 +13,7 @@
 
 - :books: In my free time, I learn about new technologies, 3D,  App and Web Game development.
 
-- :envelope: How to reach me: [Linkedin]("https://www.linkedin.com/in/adam-voros-133757223/")
+- :envelope: How to reach me: [Linkedin](https://www.linkedin.com/in/adam-voros-133757223/)
 
 
 
