@@ -3,7 +3,7 @@
       <img src="https://komarev.com/ghpvc/?username=parduckids&style=flat-square&color=red" alt=""/>
     </div>
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300">
-    <h1>Heya <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="30"></h1>
+    <h1>Heyaa <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="30"></h1>
 </div>
 
 
