@@ -7,11 +7,11 @@
 </div>
 
 
-- :computer: I'm a Student and Developer who loves computer science. Currently working as a Junior Web Developer.
+- :computer: Web developer interested in web security.
 
-- :bulb: Exploring 3D Graphics Programming.
+- :bulb: Learning full stack development & exploring offensive web security.
 
-- :books: In my free time, I learn about new technologies, 3D,  App and Web Game development.
+- :books: In my free time, I learn about new technologies, 3D,  App and Web Game development, and web security.
 
 - :envelope: How to reach me: [Linkedin](https://www.linkedin.com/in/adam-voros-133757223/)
 
