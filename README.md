@@ -3,23 +3,15 @@
       <img src="https://komarev.com/ghpvc/?username=parduckids&style=flat-square&color=red" alt=""/>
     </div>
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300">
-    <h1>Heyaa <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="30"></h1>
 </div>
 
 
-- :computer: Web developer interested in web security.
-
-- :bulb: Learning full stack development & exploring offensive web security.
-
-- :books: In my free time, I learn about new technologies, 3D,  App and Web Game development, and web security.
-
-- :envelope: How to reach me: [Linkedin](https://www.linkedin.com/in/adam-voros-133757223/)
+- :envelope: [Linkedin](https://www.linkedin.com/in/adam-voros-133757223/)
 
 
 
 <br>
-:hammer_and_wrench: Languages and Tools :
-<br><br>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
