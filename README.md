@@ -4,15 +4,7 @@
     </div>
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300">
 </div>
-
-
-- :envelope: [Linkedin](https://www.linkedin.com/in/adam-voros-133757223/)
-
-
-
 <br>
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
